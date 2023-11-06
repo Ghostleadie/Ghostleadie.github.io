@@ -2,30 +2,29 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Jack Brewer
+Jack Brewer
+Junior Gameplay Programmer
 
 Show Contacts
 
 Email
-richard@example.com
+Jack_Brewer96@Hotmail.com
 
 Phone
-+1 (213) 352-2795
+07963931549
 
 Birthday
-June 23, 1982
+21 August 1996
 
 Location
-Sacramento, California, USA
+Nottingham, Nottinghamshire, UK
 
 # navbar
 
 About
-Resume
+CV
 Portfolio
-Blog
 Contact
 
 # about
@@ -87,9 +86,9 @@ alt = client logo
 
 
 
-# resume
+# cv
 
-Resume
+CV
 
 Education
 
@@ -183,47 +182,6 @@ alt = arrival
 Arrival
 Web development
 
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
 
 
 
