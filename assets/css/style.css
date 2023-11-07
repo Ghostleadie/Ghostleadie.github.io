@@ -831,8 +831,7 @@ main {
 
 .timeline-text-term {
   color: var(--light-gray);
-  font-weight: bold;
-  font-size: var(--fs-6);
+  font-size: var(--fs-5);
   line-height: 1.4;
   margin-bottom: 3px;
 }
